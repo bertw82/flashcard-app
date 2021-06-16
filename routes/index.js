@@ -30,4 +30,3 @@ router.post('/goodbye', (req, res) => {
 });
 
 module.exports = router;
-
